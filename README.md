@@ -13,7 +13,9 @@ Join the Paperless User Group on Glassboard <https://app.glassboard.com/web/invi
 
 In order to get the Paperless environment properly setup on your machine, you will need to install the Xcode command line tools. That may sound scary but its pretty simple to do. Once you have done that, you can proceed with the installation of Paperless. 
 
-<iframe src="http://player.vimeo.com/video/62900408" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+### Video Overview
+
+Check out the video tutorial for this installation <https://vimeo.com/62900408>
 
 ### Installing Xcode Command Line Tools
 
