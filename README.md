@@ -3,7 +3,7 @@ Paperless Installer
 
 This is a installation helper app that complements the paperless cli <https://github.com/joeworkman/paperless>. 
 
-This installer will take care of all magic that needs to be done from the terminal sothat you don't have to. There are a few steps that you need to follow though…
+This installer will take care of all magic that needs to be done from the terminal so that you don't have to. There are a few steps that you need to follow though…
 
 ## Paperless User Group
 
@@ -11,16 +11,16 @@ Join the Paperless User Group on Glassboard <https://app.glassboard.com/web/invi
 
 ## Installing Paperless
 
-In order to get the Paperless environment properly setup on your machine, you will need to install the XCode command line tools. That may sound scary but its pretty simple to do. Once you have done that, you can proceed with the installation of Paperless. 
+In order to get the Paperless environment properly setup on your machine, you will need to install the Xcode command line tools. That may sound scary but its pretty simple to do. Once you have done that, you can proceed with the installation of Paperless. 
 
-### Installing XCode Command Line Tools
+### Installing Xcode Command Line Tools
 
-1. Install XCode from the Mac App Store
-2. Launch XCode
-3. XCode will require you to install "Device Support"
-4. Open XCode Preferences & go to the Downloads tab
+1. Install Xcode from the Mac App Store
+2. Launch Xcode
+3. Xcode will require you to install "Device Support"
+4. Open Xcode Preferences & go to the Downloads tab
 5. Click the install button next to "Command Line Tools"
-6. Quit XCode after the installation is complete. 
+6. Quit Xcode after the installation is complete. 
 
 ### Installing Paperless
 
