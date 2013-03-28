@@ -24,7 +24,7 @@ In order to get the Paperless environment properly setup on your machine, you wi
 
 ### Installing Paperless
 
-1. Download the Paperless Install.app using the download button above. 
+1. Download the `Paperless Install.app` using the download button above. 
 2. Launch the installer app. 
 3. Click OK to install.
 4. Wait a looonnnnngggg time. Go get some coffee…
