@@ -64,9 +64,9 @@
 					<key>displayWarning</key>
 					<false/>
 					<key>explanationText</key>
-					<string>This app will handle installing or updating the Paperless command line interface for you. You will need to ensure that you have in internet connection open while the installation is occurring.
+					<string>This app will handle installing or updating the Paperless command line interface for you. You will need to ensure that you have an internet connection open while the installation is occurring.
 
-This process can take a long time complete. 
+This process can take a long time to complete. Go get a coffee! :-)
 
 Click OK to continue. </string>
 					<key>negativeTitle</key>
@@ -174,12 +174,10 @@ Click OK to continue. </string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>522.500000:727.000000</string>
+				<string>522.500000:729.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Ask for Confirmation.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -358,12 +356,10 @@ fi</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>522.500000:530.000000</string>
+				<string>522.500000:532.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -425,6 +421,8 @@ fi</string>
 					<false/>
 					<key>explanationText</key>
 					<string>If this was a new installation, then your config file should have opened in TextEdit. I hope that you enjoy Paperless! </string>
+					<key>negativeTitle</key>
+					<string>Cancel</string>
 					<key>questionText</key>
 					<string>Install/Update Complete</string>
 				</dict>
@@ -528,8 +526,6 @@ fi</string>
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -543,19 +539,19 @@ fi</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>6769B02B-02AC-425E-86CD-494FFC9B8E6D</key>
-		<dict>
-			<key>from</key>
-			<string>1DCF524E-4CFD-4876-9709-D862D263523D - 1DCF524E-4CFD-4876-9709-D862D263523D</string>
-			<key>to</key>
-			<string>00C20972-16EB-4FD6-B929-18E61C1250D5 - 00C20972-16EB-4FD6-B929-18E61C1250D5</string>
-		</dict>
-		<key>DF8128BA-7F9B-4425-95F9-5DD0BF004E45</key>
+		<key>5114514A-A06B-4F27-8932-6F1A88901626</key>
 		<dict>
 			<key>from</key>
 			<string>15A42CBC-78EB-4499-BA25-CB9CBD307475 - 15A42CBC-78EB-4499-BA25-CB9CBD307475</string>
 			<key>to</key>
 			<string>1DCF524E-4CFD-4876-9709-D862D263523D - 1DCF524E-4CFD-4876-9709-D862D263523D</string>
+		</dict>
+		<key>5468FD36-CAAA-457D-B4E4-D05694ED3540</key>
+		<dict>
+			<key>from</key>
+			<string>1DCF524E-4CFD-4876-9709-D862D263523D - 1DCF524E-4CFD-4876-9709-D862D263523D</string>
+			<key>to</key>
+			<string>00C20972-16EB-4FD6-B929-18E61C1250D5 - 00C20972-16EB-4FD6-B929-18E61C1250D5</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
